@@ -1,1 +1,2 @@
-echo -e "0 string HOLBERTON\n!:mime Holberton" > holberton.magic && file -C -m holberton.magic
+0 string SCHOOL School data
+!:mime School
