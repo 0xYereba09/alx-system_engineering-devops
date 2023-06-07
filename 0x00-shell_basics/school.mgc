@@ -1,2 +1,1 @@
-0 string HOLBERTON Holberton data
-!:mime Holberton
+echo -e "0 string HOLBERTON\n!:mime Holberton" > holberton.magic && file -C -m holberton.magic
