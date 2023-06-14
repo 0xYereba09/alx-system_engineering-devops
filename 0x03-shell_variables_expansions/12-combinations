@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -v 'oo'<<<{a..z}{a..z}|grep '[a-z]\{2\}'
+grep -v 'oo'<<<{a..z}{a..z}
